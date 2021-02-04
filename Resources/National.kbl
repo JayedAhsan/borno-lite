@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Layout>
+  <Name>National</Name>
+  <Keys>
+     <!--To learn more about Key Codes see here:https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/vkCode-constants-->  
+	<Key vkCode="32">
+      <Normal> </Normal>
+      <Shift> </Shift>
+    </Key>	
+    <Key vkCode="48">
+      <Normal>০</Normal>
+      <Shift>)</Shift>
+    </Key>
+    <Key vkCode="49">
+      <Normal>১</Normal>
+      <Shift>!</Shift>
+    </Key>
+    <Key vkCode="50">
+      <Normal>২</Normal>
+      <Shift>৥</Shift>
+    </Key>	
+    <Key vkCode="51">
+      <Normal>৩</Normal>
+      <Shift>#</Shift>
+    </Key>	
+    <Key vkCode="52">
+      <Normal>৪</Normal>
+      <Shift>৳</Shift>
+    </Key>
+    <Key vkCode="53">
+      <Normal>৫</Normal>
+      <Shift>%</Shift>
+    </Key>	
+    <Key vkCode="54">
+      <Normal>৬</Normal>
+      <Shift>঳^</Shift>
+    </Key>
+    <Key vkCode="55">
+      <Normal>৭</Normal>
+      <Shift>ঁ</Shift>
+    </Key>
+    <Key vkCode="56">
+      <Normal>৮</Normal>
+      <Shift>*</Shift>
+    </Key>	
+    <Key vkCode="57">
+      <Normal>৯</Normal>
+      <Shift>(</Shift>
+    </Key>
+    <Key vkCode="65">
+      <Normal>ৃ</Normal>
+      <Shift>ৗ</Shift>
+
+    </Key>
+    <Key vkCode="66">
+      <Normal>ন</Normal>
+      <Shift>ণ</Shift>
+    </Key>	
+	<Key vkCode="67">
+      <Normal>ে</Normal>
+      <Shift>ৈ</Shift>
+
+    </Key>
+    <Key vkCode="68">
+      <Normal>ি</Normal>
+      <Shift>ী</Shift>
+
+    </Key>
+    <Key vkCode="69">
+      <Normal>ড</Normal>
+      <Shift>ঢ</Shift>
+
+    </Key>	
+    <Key vkCode="70">
+      <Normal>ব</Normal>
+      <Shift>ভ</Shift>
+    </Key>
+	    <Key vkCode="71" >
+      <Normal>্</Normal>
+      <Shift>।</Shift>
+    </Key>
+    <Key vkCode="72">
+     <Normal>া</Normal>
+      <Shift>অ</Shift>
+
+    </Key>
+    <Key vkCode="73">
+      <Normal>হ</Normal>
+      <Shift>ঞ</Shift>
+
+    </Key>	
+    <Key vkCode="74">
+      <Normal>ক</Normal>
+      <Shift>খ</Shift>
+
+    </Key>
+    <Key vkCode="75">
+      <Normal>ত</Normal>
+      <Shift>থ</Shift>
+
+    </Key>
+    <Key vkCode="76">
+      <Normal>দ</Normal>
+      <Shift>ধ</Shift>
+
+    </Key>
+    <Key vkCode="77">
+      <Normal>ন</Normal>
+      <Shift>ণ</Shift>
+    </Key>
+    <Key vkCode="78">
+      <Normal>স</Normal>
+      <Shift>ষ</Shift>
+
+    </Key>
+    <Key vkCode="79">
+      <Normal>গ</Normal>
+      <Shift>ঘ</Shift>
+
+    </Key>
+    <Key vkCode="80">
+      <Normal>ড়</Normal>
+      <Shift>ঢ়</Shift>
+
+    </Key>
+    <Key vkCode="81">
+      <Normal>ঙ</Normal>
+      <Shift>ং</Shift>
+
+    </Key>	
+    <Key vkCode="82">
+      <Normal>প</Normal>
+      <Shift>ফ</Shift>
+
+    </Key>	
+    <Key vkCode="83">
+      <Normal>ু</Normal>
+      <Shift>ূ</Shift>
+
+    </Key>
+    <Key vkCode="84">
+      <Normal>ট</Normal>
+      <Shift>ঠ</Shift>
+
+    </Key>
+    <Key vkCode="85">
+      <Normal>জ</Normal>
+      <Shift>ঝ</Shift>
+
+    </Key>
+    <Key vkCode="86" N_O="ZWNJ">
+      <Normal>র</Normal>
+      <Shift>ল</Shift>
+
+    </Key>
+    <Key vkCode="87">
+      <Normal>য</Normal>
+      <Shift>য়</Shift>
+
+    </Key>
+    <Key vkCode="88">
+      <Normal>ো</Normal>
+      <Shift>ৌ</Shift>
+
+    </Key>	
+    <Key vkCode="89">
+   <Normal>চ</Normal>
+      <Shift>ছ</Shift>
+
+    </Key>	
+    <Key vkCode="90" >
+      <Normal>ঁ</Normal>
+      <Shift>ঃ</Shift>
+
+    </Key>	
+    <Key vkCode="189">
+      <Normal>-</Normal>
+      <Shift>_</Shift>
+    </Key>  
+    <Key vkCode="192">
+      <Normal>‘</Normal>
+      <Shift>“</Shift>
+    </Key>
+    <Key vkCode="220">
+      <Normal>ৎ</Normal>
+      <Shift>ঃ</Shift>
+    </Key>	
+    <Key vkCode="222">
+      <Normal>’</Normal>
+      <Shift>”</Shift>
+    </Key>	
+  </Keys>
+  <Combinations>
+    <Combination>
+      <Input> ’</Input>
+      <Output> ‘</Output>
+    </Combination>
+    <Combination>
+      <Input> ”</Input>
+      <Output> “</Output>
+    </Combination>
+    <Combination>
+      <Input> ু</Input>
+      <Output> ‍ু</Output>
+    </Combination>
+    <Combination>
+      <Input> ূ</Input>
+      <Output> ‍ূ</Output>
+    </Combination>
+    <Combination>
+      <Input> ৃ</Input>
+      <Output> ‍ৃ</Output>
+    </Combination>
+    <Combination>
+      <Input>ঁা</Input>
+      <Output>াঁ</Output>
+    </Combination>
+    <Combination>
+      <Input>ঁু</Input>
+      <Output>ুঁ</Output>
+    </Combination>
+    <Combination>
+      <Input>ঁূ</Input>
+      <Output>ূঁ</Output>
+    </Combination>
+    <Combination>
+      <Input>ঁৃ</Input>
+      <Output>ৃঁ</Output>
+    </Combination>
+    <Combination>
+      <Input>র‌ে্য</Input>
+      <Output>র‌্যে</Output>
+    </Combination>
+    <Combination>
+      <Input>র‌ৈ্য</Input>
+      <Output>র‌্যৈ</Output>
+    </Combination>
+    <Combination>
+      <Input>র‌্য</Input>
+      <Output>র‌্য</Output>
+    </Combination>
+    <Combination>
+      <Input>ু্য</Input>
+      <Output>্যু</Output>
+    </Combination>
+    <Combination>
+      <Input>ু্র</Input>
+      <Output>্রু</Output>
+    </Combination>
+    <Combination>
+      <Input>ূ্য</Input>
+      <Output>্যূ</Output>
+    </Combination>
+    <Combination>
+      <Input>ূ্র</Input>
+      <Output>্রূ</Output>
+    </Combination>
+    <Combination>
+      <Input>ৃ্য</Input>
+      <Output>্যৃ</Output>
+    </Combination>
+    <Combination>
+      <Input>ৃ্র</Input>
+      <Output>্রৃ</Output>
+    </Combination>
+    <Combination>
+      <Input>েঁা</Input>
+      <Output>োঁ</Output>
+    </Combination>
+    <Combination>
+      <Input>েঁৗ</Input>
+      <Output>ৌঁ</Output>
+    </Combination>
+    <Combination>
+      <Input>ো</Input>
+      <Output>ো</Output>
+    </Combination>
+    <Combination>
+      <Input>েো</Input>
+      <Output> ো</Output>
+    </Combination>
+    <Combination>
+      <Input>েৌ</Input>
+      <Output>ৌ</Output>
+    </Combination>
+    <Combination>
+      <Input>ৌ</Input>
+      <Output>ৌ</Output>
+    </Combination>
+    <Combination>
+      <Input>অা</Input>
+      <Output>আ</Output>
+    </Combination>
+    <Combination>
+      <Input>্া</Input>
+      <Output>আ</Output>
+    </Combination>
+    <Combination>
+      <Input>্ি</Input>
+      <Output>ই</Output>
+    </Combination>
+    <Combination>
+      <Input>্ী</Input>
+      <Output>ঈ</Output>
+    </Combination>
+    <Combination>
+      <Input>্ু</Input>
+      <Output>উ</Output>
+    </Combination>
+    <Combination>
+      <Input>্ূ</Input>
+      <Output>ঊ</Output>
+    </Combination>
+    <Combination>
+      <Input>্ৃ</Input>
+      <Output>ঋ</Output>
+    </Combination>
+    <Combination>
+      <Input>্ে</Input>
+      <Output>এ</Output>
+    </Combination>
+    <Combination>
+      <Input>্ৈ</Input>
+      <Output>ঐ</Output>
+    </Combination>
+    <Combination>
+      <Input>্্</Input>
+      <Output>্‌</Output>
+    </Combination>
+    <Combination>
+      <Input>্ৗ</Input>
+      <Output>ঔ</Output>
+    </Combination>
+  </Combinations>
+</Layout>
